@@ -1,0 +1,25 @@
+--------------------------------------------------------------------------------
+================================================================================
+
+                                                     ,,                                            
+                    `7MM"""YMM        mm            `7MM                                            
+          ,/b        |MM    `7        MM              MM            
+          /|________ |MM   d  ,6"Yb.mmMMmm  ,6"Yb.    MM ___________________,
+  ,c#|#|#|}{ c------ |MM""MM 8)   MM  MM   8)   MM    MM ------------ __..-'
+  d**'    |/,.====== |MM   Y  ,pm9MM  MM    ,pm9MM    MM =======^^^'''      *        
+         d/'         |MM     8M   MM  MM   8M   MM    MM                                
+                    .JMML.   `Moo9^Yo.`Mbmo`Moo9^Yo..JMML.                  .                                                                               
+                                                          ,,                *  
+`7MM"""YMM                                         mm     db                    
+ |MM    `7                                         MM                           
+ |MM   d    `7M'   `MF',p6"bo   .gP"Ya `7MMpdMAo.mmMMmm `7MM  ,pW"Wq.`7MMpMMMb.  
+ |MMmmMM      `VA ,V' 6M'  OO  ,M'   Yb  MM   `Wb  MM     MM 6W'   `Wb MM    MM  
+ |MM   Y  ,     XMX   8M       8M""""""  MM    M8  MM     MM 8M     M8 MM    MM  
+ |MM     ,M   ,V' VA. YM.    , YM.    ,  MM   ,AP  MM     MM YA.   ,A9 MM    MM  
+.JMMmmmmMMM .AM.   .MA.YMbmd'   `Mbmmd'  MMbmmd'   `Mbmo.JMML.`Ybmd9'.JMML  JMML
+                                         MM                                     
+                                       .JMML.                               (tm)    
+
+================================================================================
+     A Byte-Sized RPG by: Jonathan Flum, Adam Thiemann, & Jenenan Ambersley                       
+--------------------------------------------------------------------------------
