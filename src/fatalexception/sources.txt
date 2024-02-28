@@ -1,0 +1,6 @@
+C:\Users\adamt\Desktop\fatal-exception\src\fatalexception\EncounterEnemy.java
+C:\Users\adamt\Desktop\fatal-exception\src\fatalexception\EnemyCharacter.java
+C:\Users\adamt\Desktop\fatal-exception\src\fatalexception\FatalException.java
+C:\Users\adamt\Desktop\fatal-exception\src\fatalexception\GameStatistics.java
+C:\Users\adamt\Desktop\fatal-exception\src\fatalexception\PlayerCharacter.java
+C:\Users\adamt\Desktop\fatal-exception\src\fatalexception\StoryNarrative.java
